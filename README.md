@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Alisson, sou desenvolvedor Java e moro no PR, Brasil</p>
+<p align="center">Meu nome é Alisson, sou QA e moro no PR, Brasil</p>
 
 ###
 
