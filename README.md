@@ -105,11 +105,6 @@ Sou **QA Engineer** e moro no **Paraná, Brasil**. Trabalho com **automação de
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alissongdb&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissongdb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="Top languages" />
-</div>
-
-<div align="center">
   <img width="80%" src="https://streak-stats.demolab.com?user=Alissongdb&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" alt="GitHub streak" />
 </div>
 
