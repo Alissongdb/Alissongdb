@@ -1,66 +1,129 @@
-<h2 align="center">👋 Olá, bem vindo ao meu perfil no GitHub</h2>
-
-###
-
-<p align="center">Meu nome é Alisson, sou QA e moro no PR, Brasil</p>
-
-###
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alisson%20Gabriel%20Dal%20Bosco&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20Automa%C3%A7%C3%A3o%20de%20Testes&descSize=18&descAlignY=58&animation=fadeIn" alt="banner" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alissongdb&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alissongdb&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="30" alt="playwright logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/Alissongdb" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/Alissongdb">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+perfil+%F0%9F%91%8B;QA+Engineer+focado+em+automa%C3%A7%C3%A3o+de+testes;Playwright+%7C+Testes+de+API+%7C+BDD;Qualidade+desde+o+in%C3%ADcio+(Shift-Left)" alt="typing animation" />
   </a>
 </div>
 
-###
+<br>
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXM3YXJ0ZTRkajZtaDVnOGVxdWdqbWF5bnVpNm5peW5zeXdwc3BxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img src="https://img.shields.io/badge/📍_Paraná,_Brasil-0f172a?style=for-the-badge" alt="localização" />
+  <img src="https://img.shields.io/badge/🧪_QA_Engineer-0f172a?style=for-the-badge" alt="cargo" />
+  <img src="https://img.shields.io/badge/🌎_Inglês_técnico-0f172a?style=for-the-badge" alt="inglês" />
 </div>
 
-###
+<br>
+
+## 👨‍💻 Sobre mim
+
+Sou **QA Engineer** e moro no **Paraná, Brasil**. Trabalho com **automação de testes**, **testes de API e backend** e escrita de cenários em **BDD/Gherkin**, sempre buscando qualidade desde o início do ciclo de desenvolvimento (*shift-left testing*). Também acompanho **monitoramento e observabilidade** com Grafana e New Relic.
+
+- 🤖 Automação E2E com **Playwright** e **Selenium**
+- 🔌 Testes de API REST, integração e validação de dados com **SQL**
+- 📝 Cenários em **BDD (Gherkin)** em times **Agile / Scrum / Kanban**
+- 📊 Observabilidade com **Grafana** e **New Relic**
+
+<br>
+
+## 🛠️ Stack técnica
+
+### 🤖 Automação de Testes
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber / Gherkin" />
+</p>
+
+### 🔌 Testes de API e Backend
+<p>
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Testes_de_Integração-0F172A?style=for-the-badge" alt="Integração" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### 🔄 CI/CD e Versionamento
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+### 📊 Monitoramento e Observabilidade
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</p>
+
+### 📋 Gestão e Qualidade
+<p>
+  <img src="https://img.shields.io/badge/Jira_Cloud-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Azure_Storage-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Storage" />
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebird-E5322D?style=for-the-badge&logo=firebird&logoColor=white" alt="Firebird" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 💻 Linguagens
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 🧭 Metodologias e Tipos de Teste
+<p>
+  <img src="https://img.shields.io/badge/BDD-0F172A?style=flat-square" alt="BDD" />
+  <img src="https://img.shields.io/badge/Gherkin-0F172A?style=flat-square" alt="Gherkin" />
+  <img src="https://img.shields.io/badge/Agile-0F172A?style=flat-square" alt="Agile" />
+  <img src="https://img.shields.io/badge/Scrum-0F172A?style=flat-square" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-0F172A?style=flat-square" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Shift--Left_Testing-0F172A?style=flat-square" alt="Shift-Left" />
+  <img src="https://img.shields.io/badge/Testes_Funcionais-0F172A?style=flat-square" alt="Funcionais" />
+  <img src="https://img.shields.io/badge/Regressão-0F172A?style=flat-square" alt="Regressão" />
+  <img src="https://img.shields.io/badge/Exploratórios-0F172A?style=flat-square" alt="Exploratórios" />
+  <img src="https://img.shields.io/badge/Aceitação-0F172A?style=flat-square" alt="Aceitação" />
+</p>
+
+<br>
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alissongdb&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alissongdb&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12&locale=pt-br" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=Alissongdb&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" alt="GitHub streak" />
+</div>
+
+<br>
+
+## 🤝 Vamos conversar?
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/Alissongdb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Alissongdb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
